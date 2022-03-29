@@ -16,7 +16,7 @@
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
-//只需要 IDLE, ID, EX 三个阶段即可
+//
 // 输出存到Aggr Buffer，buffer直接设置成256Bit的
 //////////////////////////////////////////////////////////////////////////////////
 module SIMD_top(
